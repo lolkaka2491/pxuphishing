@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         pxu skip phishing warning
+// @name         PXU skip phishing warning
 // @namespace    https://pixuniverse.fun
 // @version      1.4
 // @description  Automatically bypasses the phishing warning.
